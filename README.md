@@ -16,3 +16,11 @@ services based on their analysis.
 The analysis involves answering some of the important questions that the bank has identified. These questions include understanding the demographic profile of the bank's clients and how it varies across different districts, identifying the most common types of accounts and cards used by the clients, analyzing the bank's expenses and loan portfolio, and exploring ways to improve customer service and satisfaction levels.
 
 The results of this analysis can be used by the Czechoslovakia Bank to improve their financial operations and introduce new financial products or services.
+
+
+<img width="824" alt="image" src="https://github.com/Manjeet-MnB/Czechoslovakia-bank-data-analysis/assets/71639295/e269a27d-f3b0-4015-bb71-eeab95ce790d">
+
+<img width="823" alt="image" src="https://github.com/Manjeet-MnB/Czechoslovakia-bank-data-analysis/assets/71639295/340c63f3-de8e-481d-9542-f781ff7cbe13">
+
+<img width="821" alt="image" src="https://github.com/Manjeet-MnB/Czechoslovakia-bank-data-analysis/assets/71639295/fadbfa28-350e-425e-95f4-fd88dadbab19">
+
